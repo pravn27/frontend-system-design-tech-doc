@@ -1,0 +1,8 @@
+{
+  "label": "FSD Documentations",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Contains complete Frontend System Design documentations, references & related links."
+  }
+}
