@@ -8,12 +8,8 @@ sidebar_position: 1
 
 ## Important Guidelines
 
-- [Important Guidelines Namaste ReactJS](https://github.com/pravn27/reactjs-tech-doc/blob/38b7c859f127759974c690baeabebbdb77ab51f9/docs/reactjs-course-tutorials/namaste-reactjs-course/Important-guidelines-Namaste-ReactJS.pdf)
+- [Important Guidelines Namaste FSD](https://github.com/pravn27/frontend-system-design-tech-doc/blob/master/docs/fsd-course-tutorials/namaste-frontend-system-design/important-guidelines-nfsd.pdf)
 
 ## Overview
 
 -
-
-## Namaste ReactJS hands on practice & implementation, demo projects
-
-- https://github.com/pravn27/namasteReactjs

@@ -74,7 +74,6 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        // title: "ReactJS",
         logo: {
           alt: "Logo",
           src: "/img/logo.png",
