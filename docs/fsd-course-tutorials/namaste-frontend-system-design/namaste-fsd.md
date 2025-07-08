@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Namaste Frontend System Design 2025 - 2026
 
-> Welcome to the 'Namaste Frontend System Design' course, a comprehensive journey covering pivotal modules. From fortifying systems against vulnerabilities to mastering networking, testing, communication, and offline support, delve into logging, database, performance, low-level, accessibility, and high-level design. Explore architectures of social media, e-commerce, streaming, and collaborative tools. Elevate skills in securing, optimizing, and architecting accessible, high-performance frontend systems.
+> Welcome to the 'Namaste Frontend System Design' course, a comprehensive journey covering pivotal modules. From fortifying systems against vulnerabilities to mastering networking, testing, communication, and offline support, delve into logging, database, performance, low-level, accessibility, and high-level design. Explore architectures of social media, e-commerce, streaming, and collaborative tools. Elevate skills in securing, optimizing, and architecture accessible, high-performance frontend systems.
 
 ## Important Guidelines
 
@@ -12,4 +12,4 @@ sidebar_position: 1
 
 ## Overview
 
--
+- Namaste Frontend System Design code - https://github.com/namastedev/namaste-frontend-system-design
