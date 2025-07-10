@@ -19,4 +19,16 @@ sidebar_position: 1
 
   ![alt text](../images/why-networking.png)
 
-**Stopped at 15min**
+## 4. Popular Interview Questions
+
+- Networking Fundamentals
+- How the Internet works
+- Frontend-Backend Interaction in depth
+- REST Concepts
+- Difference between HTTP methods (GET, PUT, POST, DELETE)
+- HTTP Header Based question and content type
+- CORS in depth
+
+## 5. While giving interviews, use the example to explain the concepts
+
+## 6. For Senior devs, during interview add justification for why & how do you use ?
